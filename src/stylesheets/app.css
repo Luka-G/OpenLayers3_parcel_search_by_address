@@ -1,0 +1,19 @@
+html,body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.map {
+    width: 100%;
+}
+
+.header {
+    min-height: 80px;
+    background-color: #282828;
+    color: white;
+}
+
+#search {
+    height: 100% !important;
+    width: 100% !important;
+}
