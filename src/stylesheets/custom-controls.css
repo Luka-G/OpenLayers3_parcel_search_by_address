@@ -1,0 +1,27 @@
+.ol-control {
+    background-color: transparent !important;
+}
+
+.ol-control button {
+    border-radius: 100% !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: rgba(40,40,40,0.7) !important;
+}
+
+.ol-control button:hover {
+    background-color: rgba(40,40,40,1) !important;
+}
+
+.ol-control button:focus {
+    outline: none !important;
+}
+
+.ol-scale-line {
+    background-color: rgba(40,40,40,0.7) !important;
+    color: white !important;
+}
+
+.ol-scale-line:hover {
+    background-color: rgba(40,40,40,1) !important;
+}

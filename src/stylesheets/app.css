@@ -1,6 +1,7 @@
 html,body {
     margin: 0 !important;
     padding: 0 !important;
+    font-family: Montserrat, serif !important;
 }
 
 .map {
@@ -9,7 +10,7 @@ html,body {
 
 .header {
     min-height: 80px;
-    background-color: #282828;
+    background-color: rgb(40,40,40);
     color: white;
 }
 
